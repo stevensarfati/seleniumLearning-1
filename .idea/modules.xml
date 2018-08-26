@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_main.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_main.iml" group="secondSeleniumProjectWithGetHub" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_test.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_test.iml" group="secondSeleniumProjectWithGetHub" />
+    </modules>
+  </component>
+</project>
